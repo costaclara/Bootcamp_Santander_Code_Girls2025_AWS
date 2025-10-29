@@ -1,4 +1,4 @@
-# I Desafio de Projeto - Gerenciamento de Instâncias EC2 na AWS
+# Desafio 1 - Gerenciamento de Instâncias EC2 na AWS
 
 ## Objetivo
 Documentar a prática de criação, configuração e gerenciamento de instâncias EC2 na AWS, consolidando os conhecimentos adquiridos nas aulas da DIO.
@@ -7,7 +7,7 @@ Documentar a prática de criação, configuração e gerenciamento de instância
 
 O diagrama abaixo ilustra visualmente os componentes e o fluxo de comunicação:
 
-📁 Localizado na pasta `/images/diagrama-ec2.png`
+📁 Localizado na pasta `/image.png`
 
 ---
 
@@ -21,9 +21,9 @@ O diagrama abaixo ilustra visualmente os componentes e o fluxo de comunicação:
 
 ##  Recursos Adicionais
 
+- [Draw.io para diagramas](https://draw.io) 
 - [Documentação EC2 AWS](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)  
 - [Guia Markdown GitHub](https://guides.github.com/features/mastering-markdown/)  
-- [Draw.io para diagramas](https://draw.io)  
 
 
 ## Visão Geral da Arquitetura
