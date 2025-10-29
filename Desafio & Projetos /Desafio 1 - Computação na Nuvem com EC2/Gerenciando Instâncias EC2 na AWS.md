@@ -7,7 +7,8 @@ Documentar a prática de criação, configuração e gerenciamento de instância
 
 O diagrama abaixo ilustra visualmente os componentes e o fluxo de pedido de compra:
 
-📁 Localizado na pasta `/image.png`
+<img width="521" height="531" alt="Image drawio" src="https://github.com/user-attachments/assets/c2e893be-a818-485a-9128-813734965ea2" />
+
 
 ---
 
